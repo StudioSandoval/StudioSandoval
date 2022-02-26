@@ -1,3 +1,10 @@
 body{
+<<<<<<< HEAD
     color: rgb(212, 12, 12);
+=======
+    justify-content: center;
+    align-content: center;
+    color: aqua;
+    text-align: center;
+>>>>>>> Emmanuel
 }
