@@ -1,6 +1,10 @@
 body{
     justify-content: center;
     align-content: center;
+<<<<<<< HEAD
+=======
+    color: rgb(47, 0, 255);
+>>>>>>> Emmanuel
     text-align: center;
     background: hotpink;
 }
