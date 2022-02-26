@@ -1,6 +1,10 @@
 body{
+<<<<<<< HEAD
     justify-content: center;
     align-content: center;
     color: aqua;
     text-align: center;
+=======
+    color: brown;
+>>>>>>> master
 }
